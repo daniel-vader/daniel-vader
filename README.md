@@ -1,5 +1,5 @@
 ### Daniel T Vader, PhD: Epidemiologist and collaborative biostatistician
-Research focused on questions concerning vaccination, measurement error, missing data, and inference with real world data. R & SAS. Methodological topics include propensity scores (IPTWs), missing data (multiple imputation, propensity score calibration), misclassification (Bayesian adjustment and quantitative bias analysis), survey weights, and geocoding/analyzing geocoded data.
+Research focused on questions concerning vaccination, measurement error, missing data, and inference with real world data. R & SAS. Methodological topics of the respositories archived here span propensity scores (IPTWs), missing data (multiple imputation, propensity score calibration), misclassification (Bayesian adjustment and quantitative bias analysis), survey weights, and geocoding/analyzing geocoded data.
 
 <!--
 **daniel-vader/daniel-vader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
